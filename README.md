@@ -1,0 +1,2 @@
+# Customer-segmentation-using-decision-trees
+Our data comprises of 5000 instances, 15 features and discrete classes with 2 values, and no missing data. The data provided describes the customers’ detailed records of previous marketing calls, all attempting to sell that product. The data provided also includes information about the characteristics and demographics of people who were called, and whether they ultimately subscribed to the product. The percentage of prospects who said ‘No’ to the service was 87.90% and the percentage that said ‘Yes’ was 12.10% 
